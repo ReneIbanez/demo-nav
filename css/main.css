@@ -87,9 +87,9 @@ body{
 }
 .mainSecImgs{
   width: 99%;
- border-top: 1px solid black;
- padding-top: 20px;
- float: left;
+  border-top: 1px solid black;
+  padding-top: 20px;
+  float: left;
 }
 .mainSecImgs img{
   padding-left: 1%;
@@ -146,7 +146,7 @@ nav ul li span{
   font-family: sans-serif;
 }
  nav ul li{
-  color: white;
+  color: #ffff;
   display: inline;
   text-align: center;
   list-style: none;

@@ -125,6 +125,11 @@ body{
   margin-left: 70%;
   }
 
+  .newsSec .newsRow{
+    border: 1px solid black
+
+  }
+
 nav{
   display: inline-block;
   border: 1px solid black;

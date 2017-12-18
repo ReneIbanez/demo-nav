@@ -126,8 +126,13 @@ body{
   }
 
   .newsSec .newsRow{
-    border: 1px solid black
+    border: 1px solid black;
+    width:100%;
+    float:left;
+  }
 
+  .newsRow img{
+    width: 30%;
   }
 
 nav{

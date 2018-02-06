@@ -100,7 +100,7 @@ body{
 .mainSecImgs img+span h2{
   float: left;
   font-size: 26px;
-  margin-top: 52%;
+  margin-top: 49%;
   margin-left: -66%;
   background: rgba(0, 114, 255, 0.32);
 }
@@ -142,7 +142,6 @@ body{
 
 nav{
   display: inline-block;
-  border: 1px solid black;
   background: #0b669c;
   font-size: 20px;
   width: 98%;
@@ -165,5 +164,9 @@ nav ul li span{
   display: inline;
   text-align: center;
   list-style: none;
-  margin-left: 1%;
+  margin-left: 2%;
+}
+
+nav a{
+  padding-left: 3%;
 }

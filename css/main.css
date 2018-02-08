@@ -1,5 +1,5 @@
 body{
-  background-image: url("https://cdn.thinglink.me/api/image/609784092623372290/1240/10/scaletowidth");
+  background-image: url("https://fsb.zobj.net/crop.php?r=2HHZCrEdLzo09RRczQViB5ij0HenRHs-mjkG4Dq9nO6_tf3tGAvQKSkoenLLVsnk2tXeDI8L5BaOquX7TH0z1COIh2TciAJwG9E_WJIY8IO-InZCyNTNUWSV2-CgCk7ys8kNrRWVAtcj4QnmOJoLsxlAzf6Iq_Cp5RhFRA");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -14,6 +14,14 @@ body{
 .socialIcons{
   float: right;
   width: 40%;
+}
+.socialIcons a{
+  text-decoration: none;
+}
+.socialIcons a span{
+  font-size: 30px;
+  color: orange;
+
 
 }
 
@@ -125,7 +133,6 @@ body{
   margin-left: 70%;
   }
 .newsSec .newsRow{
-  border: 1px solid black;
   width:100%;
   float:left;
 }
